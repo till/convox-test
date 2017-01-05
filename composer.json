@@ -1,0 +1,14 @@
+{
+    "name": "till/convox-test",
+    "type": "project",
+    "require": {
+        "symfony/framework-standard-edition": "^3.2"
+    },
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "till",
+            "email": "till@php.net"
+        }
+    ]
+}
